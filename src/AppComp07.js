@@ -15,7 +15,7 @@ Warn.defaultProps = {
   size: '20px',
 };
 
-function Warn({ text, prefix, size }) {
+function Warn({ text, prefix = '경고 ', size }) {
   return (
     <div style={{ color: 'red', fontSize: size }}>
       {prefix} : {text}

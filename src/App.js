@@ -10,5 +10,5 @@ import AppComp07 from './AppComp07';
 import AppComp08 from './AppComp08';
 
 export default function App() {
-  return <AppComp01 />;
+  return <AppComp07 />;
 }

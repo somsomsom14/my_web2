@@ -13,7 +13,7 @@ export default function AppComp03() {
 }
 
 function Star1() {
-  return <div>★</div>;
+  return <div style = {{ fontsize : 50 , color: 'red'}}>★</div>;
 }
 
 function Star2() {
