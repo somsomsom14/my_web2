@@ -8,7 +8,7 @@ import AppComp05 from './AppComp05';
 import AppComp06 from './AppComp06';
 import AppComp07 from './AppComp07';
 import AppComp08 from './AppComp08';
-
+import AppBasicmain from './AppBasicmain';
 export default function App() {
   return <AppComp07 />;
 }
